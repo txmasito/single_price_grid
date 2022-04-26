@@ -148,13 +148,13 @@ button:hover{
 .footer-links{
     margin: 0 0 10px 0;
     font-size: 14px;
-    color: hsl(218, 22%, 67%);
+    color: hsl(220, 4%, 47%);
 }
 
 .link{
     margin-left: 5px;
     text-decoration: none;
-    color: hsl(179, 62%, 43%);
+    color: hsl(179, 66%, 32%);
     transition: all 0.5s;
     font-size: 14px;
     cursor: pointer;
@@ -165,7 +165,7 @@ button:hover{
 }
 
 .link:hover{
-    color: hsl(218, 22%, 67%);
+    color: hsl(220, 4%, 47%);
 }
 
 @media screen and (max-width: 440px){
